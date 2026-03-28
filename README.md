@@ -1,6 +1,8 @@
 # Ridhima_Pandey-Digital_literacy_new
 Project Overview
 The Cybersecurity Awareness Hub is an interactive educational platform designed to bridge the gap between complex security concepts and everyday digital habits. In an era of increasing data breaches and sophisticated phishing, this project provides a centralized resource for users to understand common threats and learn how to implement robust defensive measures for their personal and professional data.
+MADE BY- RIDHIMA PANDEY
+REGISTER NO.-25BAI11233
 
 Objective
 The core objectives of this project are:
